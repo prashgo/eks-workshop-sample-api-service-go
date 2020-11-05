@@ -10,7 +10,6 @@ import (
 	"strings"
 )
 
-knightsofren/28MxytJtdttSkDk
 func main() {
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 
